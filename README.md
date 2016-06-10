@@ -46,14 +46,12 @@ Not include
 Requirment
 ==========
 
-Java jre 1.7
-.NET framework Runtime v4.0.30319
+Java jre 1.7, .NET framework Runtime v4.0.30319
 
 Compile Requirment
 ==================
 
-MS Visual Studio 2010
-.NET framework Runtime v4.0.30319
+MS Visual Studio 2010, .NET framework Runtime v4.0.30319
 
 Credits
 =======
