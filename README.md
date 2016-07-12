@@ -38,7 +38,7 @@ Not include
 
 01. Apktool
 02. Dex2jar
-03. Backsmali / smali
+03. Baksmali / smali
 04. ApkShellext2
 05. 7z
 06. JD-GUI
@@ -58,7 +58,7 @@ Credits
 
 01. Apktool : Ryszard Wisniewski, Connor Tumbleson
 02. Dex2jar : Bob Pan
-03. Backsmali / smali : Ben Gruver
+03. Baksmali / smali : Ben Gruver
 04. ApkShellext2 : kkguo
 05. 7z : Igor Pavlov
 06. oat2dex : Softdx
